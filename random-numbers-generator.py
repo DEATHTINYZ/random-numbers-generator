@@ -15,7 +15,7 @@ for i in range(0, length_array):
     # สร้างตัวแปรเก็บตัวเลขที่สุ่ม ตั้งแต่เลข 1 - 1000
     item = random.randint(1,1000)
 
-    # เพิ่มตัวเลขที่สุ่มไว้ใน mylist
+    # เพิ่มตัวเลขที่สุ่มไว้ใน random_numlst
     random_numlst.append(item)
 
 # สร้างไฟล์ txt 
